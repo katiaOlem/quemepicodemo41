@@ -1,0 +1,7 @@
+0 Araña
+1 Abeja
+2 Hormiga
+3 Garrapata
+4 Mosquito
+5 Pulga
+6 Chinche
